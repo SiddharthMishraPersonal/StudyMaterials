@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GroupingRadioButtons.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ArchivedPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\smishra\Documents\My Box Files\Technical\Algorithm &amp; Data Structures\GroupingRadioButtons\GroupingRadioButtons\Helper\Log.db3</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
