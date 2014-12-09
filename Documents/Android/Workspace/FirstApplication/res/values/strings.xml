@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FirstApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="num01">First Input</string>
+    <string name="num02">Second Number</string>
+    <string name="strAdd">Add</string>
+    <string name="strResult">"Result : "</string>
+    <string name="defaultTextValue">0</string>
+
+</resources>

@@ -1,0 +1,16 @@
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\StudyMaterials\WPF\RubberBandSelection\bin\Debug\RubberBandSelection.exe.config
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\StudyMaterials\WPF\RubberBandSelection\bin\Debug\RubberBandSelection.exe
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\StudyMaterials\WPF\RubberBandSelection\bin\Debug\RubberBandSelection.pdb
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\StudyMaterials\WPF\RubberBandSelection\bin\Debug\RubberBand.dll
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\StudyMaterials\WPF\RubberBandSelection\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\StudyMaterials\WPF\RubberBandSelection\bin\Debug\RubberBand.pdb
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\StudyMaterials\WPF\RubberBandSelection\obj\x86\Debug\RubberBandSelection.csprojResolveAssemblyReference.cache
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\StudyMaterials\WPF\RubberBandSelection\obj\x86\Debug\MainWindow.baml
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\StudyMaterials\WPF\RubberBandSelection\obj\x86\Debug\MainWindow.g.cs
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\StudyMaterials\WPF\RubberBandSelection\obj\x86\Debug\App.g.cs
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\StudyMaterials\WPF\RubberBandSelection\obj\x86\Debug\RubberBandSelection_MarkupCompile.cache
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\StudyMaterials\WPF\RubberBandSelection\obj\x86\Debug\RubberBandSelection.g.resources
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\StudyMaterials\WPF\RubberBandSelection\obj\x86\Debug\RubberBandSelection.Properties.Resources.resources
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\StudyMaterials\WPF\RubberBandSelection\obj\x86\Debug\RubberBandSelection.csproj.GenerateResource.Cache
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\StudyMaterials\WPF\RubberBandSelection\obj\x86\Debug\RubberBandSelection.exe
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\StudyMaterials\WPF\RubberBandSelection\obj\x86\Debug\RubberBandSelection.pdb

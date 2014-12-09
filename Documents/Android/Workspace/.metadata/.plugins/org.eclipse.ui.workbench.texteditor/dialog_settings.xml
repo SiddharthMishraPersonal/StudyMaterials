@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="ParseObject testObject = new ParseObject(&quot;TestObject&quot;);" key="selection"/>
+		<list key="findhistory">
+			<item value="ParseObject testObject = new ParseObject(&quot;TestObject&quot;);"/>
+			<item value="EditText txtFirstNumber = (EditText)findViewById(R.id.txtNum01);"/>
+		</list>
+	</section>
+</section>
