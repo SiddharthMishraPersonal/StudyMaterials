@@ -1,0 +1,4 @@
+C:\Users\smishra\Documents\My Box Files\Technical\Common\Projects\ChangeFilePermission\ChangeFilePermission\bin\Debug\ChangeFilePermission.exe
+C:\Users\smishra\Documents\My Box Files\Technical\Common\Projects\ChangeFilePermission\ChangeFilePermission\bin\Debug\ChangeFilePermission.pdb
+C:\Users\smishra\Documents\My Box Files\Technical\Common\Projects\ChangeFilePermission\ChangeFilePermission\obj\x86\Debug\ChangeFilePermission.exe
+C:\Users\smishra\Documents\My Box Files\Technical\Common\Projects\ChangeFilePermission\ChangeFilePermission\obj\x86\Debug\ChangeFilePermission.pdb

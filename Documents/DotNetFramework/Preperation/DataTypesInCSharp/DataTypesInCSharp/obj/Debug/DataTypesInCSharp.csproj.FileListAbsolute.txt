@@ -1,0 +1,6 @@
+C:\Users\smishra\Documents\My Box Files\Technical\DotNetFramework\Preperation\DataTypesInCSharp\DataTypesInCSharp\bin\Debug\DataTypesInCSharp.exe.config
+C:\Users\smishra\Documents\My Box Files\Technical\DotNetFramework\Preperation\DataTypesInCSharp\DataTypesInCSharp\bin\Debug\DataTypesInCSharp.exe
+C:\Users\smishra\Documents\My Box Files\Technical\DotNetFramework\Preperation\DataTypesInCSharp\DataTypesInCSharp\bin\Debug\DataTypesInCSharp.pdb
+C:\Users\smishra\Documents\My Box Files\Technical\DotNetFramework\Preperation\DataTypesInCSharp\DataTypesInCSharp\obj\Debug\DataTypesInCSharp.csprojResolveAssemblyReference.cache
+C:\Users\smishra\Documents\My Box Files\Technical\DotNetFramework\Preperation\DataTypesInCSharp\DataTypesInCSharp\obj\Debug\DataTypesInCSharp.exe
+C:\Users\smishra\Documents\My Box Files\Technical\DotNetFramework\Preperation\DataTypesInCSharp\DataTypesInCSharp\obj\Debug\DataTypesInCSharp.pdb

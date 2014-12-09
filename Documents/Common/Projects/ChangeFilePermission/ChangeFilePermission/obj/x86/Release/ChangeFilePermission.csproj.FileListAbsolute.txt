@@ -1,0 +1,5 @@
+C:\Users\smishra\Documents\My Box Files\Technical\Common\Projects\ChangeFilePermission\ChangeFilePermission\bin\Release\ChangeFilePermission.exe
+C:\Users\smishra\Documents\My Box Files\Technical\Common\Projects\ChangeFilePermission\ChangeFilePermission\bin\Release\ChangeFilePermission.pdb
+C:\Users\smishra\Documents\My Box Files\Technical\Common\Projects\ChangeFilePermission\ChangeFilePermission\obj\x86\Release\ChangeFilePermission.exe
+C:\Users\smishra\Documents\My Box Files\Technical\Common\Projects\ChangeFilePermission\ChangeFilePermission\obj\x86\Release\ChangeFilePermission.pdb
+C:\Users\smishra\Documents\My Box Files\Technical\Common\Projects\ChangeFilePermission\ChangeFilePermission\obj\x86\Release\ChangeFilePermission.csprojResolveAssemblyReference.cache
