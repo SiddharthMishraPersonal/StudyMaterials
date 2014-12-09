@@ -1,0 +1,5 @@
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\ConsoleApps\CsvDataParser\CsvParserLib\bin\Debug\CsvParserLib.dll
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\ConsoleApps\CsvDataParser\CsvParserLib\bin\Debug\CsvParserLib.pdb
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\ConsoleApps\CsvDataParser\CsvParserLib\obj\Debug\CsvParserLib.csprojResolveAssemblyReference.cache
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\ConsoleApps\CsvDataParser\CsvParserLib\obj\Debug\CsvParserLib.dll
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\ConsoleApps\CsvDataParser\CsvParserLib\obj\Debug\CsvParserLib.pdb

@@ -1,0 +1,9 @@
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\Winforms\BusyIndicator\BusyIndicator\bin\Debug\BusyIndicator.pdb
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\Winforms\BusyIndicator\BusyIndicator\obj\Debug\BusyIndicator.Properties.Resources.resources
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\Winforms\BusyIndicator\BusyIndicator\obj\Debug\BusyIndicator.usBusyIndicator.resources
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\Winforms\BusyIndicator\BusyIndicator\obj\Debug\BusyIndicator.csproj.GenerateResource.Cache
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\Winforms\BusyIndicator\BusyIndicator\obj\Debug\BusyIndicator.pdb
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\Winforms\BusyIndicator\BusyIndicator\bin\Debug\BusyIndicator.exe.config
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\Winforms\BusyIndicator\BusyIndicator\bin\Debug\BusyIndicator.exe
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\Winforms\BusyIndicator\BusyIndicator\obj\Debug\BusyIndicator.Form1.resources
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\Winforms\BusyIndicator\BusyIndicator\obj\Debug\BusyIndicator.exe

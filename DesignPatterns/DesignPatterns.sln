@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ObserverPattern\ObserverPattern\ObserverPattern.csproj", "{F4E8FE17-F976-4D9F-A7CF-21272E3A28F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{C8901203-0B6B-4F46-8EAA-F51243DA24D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CreationalPatterns", "CreationalPatterns", "{3A965933-6224-49D2-9061-8A35A48F251D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StructuralPatterns", "StructuralPatterns", "{991E9CB6-B94B-40A9-8621-FF66E2CAC346}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BehavioralPatterns", "BehavioralPatterns", "{8FE7C0BB-F55D-4B1A-9814-0110E7B82EC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4E8FE17-F976-4D9F-A7CF-21272E3A28F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E8FE17-F976-4D9F-A7CF-21272E3A28F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E8FE17-F976-4D9F-A7CF-21272E3A28F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E8FE17-F976-4D9F-A7CF-21272E3A28F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8901203-0B6B-4F46-8EAA-F51243DA24D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8901203-0B6B-4F46-8EAA-F51243DA24D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8901203-0B6B-4F46-8EAA-F51243DA24D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8901203-0B6B-4F46-8EAA-F51243DA24D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F4E8FE17-F976-4D9F-A7CF-21272E3A28F0} = {8FE7C0BB-F55D-4B1A-9814-0110E7B82EC3}
+		{C8901203-0B6B-4F46-8EAA-F51243DA24D4} = {3A965933-6224-49D2-9061-8A35A48F251D}
+	EndGlobalSection
+EndGlobal

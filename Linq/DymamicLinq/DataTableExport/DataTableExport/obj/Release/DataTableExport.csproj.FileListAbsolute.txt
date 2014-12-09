@@ -1,0 +1,8 @@
+D:\project\DynamicLinq\Generic\DataTableExport\DataTableExport\bin\Release\DataTableExport.exe.config
+D:\project\DynamicLinq\Generic\DataTableExport\DataTableExport\bin\Release\DataTableExport.exe
+D:\project\DynamicLinq\Generic\DataTableExport\DataTableExport\bin\Release\DataTableExport.pdb
+D:\project\DynamicLinq\Generic\DataTableExport\DataTableExport\obj\Release\DataTableExport.Form1.resources
+D:\project\DynamicLinq\Generic\DataTableExport\DataTableExport\obj\Release\DataTableExport.Properties.Resources.resources
+D:\project\DynamicLinq\Generic\DataTableExport\DataTableExport\obj\Release\DataTableExport.csproj.GenerateResource.Cache
+D:\project\DynamicLinq\Generic\DataTableExport\DataTableExport\obj\Release\DataTableExport.exe
+D:\project\DynamicLinq\Generic\DataTableExport\DataTableExport\obj\Release\DataTableExport.pdb

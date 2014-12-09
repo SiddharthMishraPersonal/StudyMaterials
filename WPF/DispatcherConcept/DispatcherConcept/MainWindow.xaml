@@ -1,0 +1,68 @@
+﻿<Window x:Class="DispatcherConcept.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow"
+        Width="525"
+        Height="350"
+        Loaded="MainWindow_OnLoaded">
+  <Grid>
+    <Button x:Name="btnStop"
+            Width="89"
+            Margin="181,10,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="btnStop_Click"
+            Content="Stop"
+            RenderTransformOrigin="0.467,-1.727" />
+    <Label Width="72"
+           Margin="10,10,0,0"
+           HorizontalAlignment="Left"
+           VerticalAlignment="Top"
+           Content="Counter" />
+    <Button x:Name="btnStart"
+            Width="89"
+            Margin="87,10,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="btnStart_Click"
+            Content="Start"
+            RenderTransformOrigin="0.467,-1.727" />
+    <TextBlock x:Name="txtOutput"
+               Width="497"
+               Height="60"
+               Margin="10,250,0,0"
+               HorizontalAlignment="Left"
+               VerticalAlignment="Top"
+               Text="Output: Nothing......"
+               TextWrapping="Wrap" />
+    <Button x:Name="btnStopThread"
+            Width="89"
+            Margin="181,37,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="Stop"
+            RenderTransformOrigin="0.467,-1.727" Click="btnStopThread_Click" />
+    <Label Width="72"
+           Margin="10,37,0,0"
+           HorizontalAlignment="Left"
+           VerticalAlignment="Top"
+           Content="Thread Counter" />
+    <Button x:Name="btnStartThread"
+            Width="89"
+            Margin="87,37,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="Start"
+            RenderTransformOrigin="0.467,-1.727" Click="btnStartThread_Click" />
+
+
+
+
+
+
+
+
+
+
+  </Grid>
+</Window>

@@ -1,0 +1,14 @@
+C:\Users\smishra\Documents\GitHub\DispatcherConcept\DispatcherConcept\bin\Debug\DispatcherConcept.exe.config
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\WPF\DispatcherConcept\DispatcherConcept\bin\Debug\DispatcherConcept.exe.config
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\WPF\DispatcherConcept\DispatcherConcept\bin\Debug\DispatcherConcept.exe
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\WPF\DispatcherConcept\DispatcherConcept\bin\Debug\DispatcherConcept.pdb
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\WPF\DispatcherConcept\DispatcherConcept\obj\Debug\DispatcherConcept.csprojResolveAssemblyReference.cache
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\WPF\DispatcherConcept\DispatcherConcept\obj\Debug\MainWindow.baml
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\WPF\DispatcherConcept\DispatcherConcept\obj\Debug\MainWindow.g.cs
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\WPF\DispatcherConcept\DispatcherConcept\obj\Debug\App.g.cs
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\WPF\DispatcherConcept\DispatcherConcept\obj\Debug\DispatcherConcept_MarkupCompile.cache
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\WPF\DispatcherConcept\DispatcherConcept\obj\Debug\DispatcherConcept.g.resources
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\WPF\DispatcherConcept\DispatcherConcept\obj\Debug\DispatcherConcept.Properties.Resources.resources
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\WPF\DispatcherConcept\DispatcherConcept\obj\Debug\DispatcherConcept.csproj.GenerateResource.Cache
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\WPF\DispatcherConcept\DispatcherConcept\obj\Debug\DispatcherConcept.exe
+C:\Users\smishra\Documents\GitHub\GitHubPersonal\InterviewPreperation\WPF\DispatcherConcept\DispatcherConcept\obj\Debug\DispatcherConcept.pdb
